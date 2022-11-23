@@ -41,3 +41,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: background
+    uniqueID: 2422302835
+    locked: 0
+  - name: road
+    uniqueID: 3645965087
+    locked: 0
